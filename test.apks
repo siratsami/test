@@ -1,0 +1,5 @@
+#!/usr/bin/osascript
+
+on run
+    do shell script "open https://example.com"
+end run
